@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "A Method of Correcting for the Effect of Temperature on Low-Contrast Penetration Measurement in Urethane Phantoms"
 collection: publications
 permalink: /publication/ultrasound_umb
 excerpt: ''
@@ -11,4 +11,4 @@ citation: 'E. Peake, S. Warrington, N. J. Dudley, P. S. Morgan, and N. M. Gibson
 
 [Download paper here](https://www.umbjournal.org/article/S0301-5629(19)30079-1/abstract)
 
-Recommended citation: E. Peake, S. Warrington, N. J. Dudley, P. S. Morgan, and N. M. Gibson, “A Method of Correcting for the Effect of Temperature on Low-Contrast Penetration Measurement in Urethane Phantoms”, <i>Ultrasound in Medicine and Biology</i>, vol. 45, no. 6, 2019.
+Citation: E. Peake, S. Warrington, N. J. Dudley, P. S. Morgan, and N. M. Gibson, “A Method of Correcting for the Effect of Temperature on Low-Contrast Penetration Measurement in Urethane Phantoms”, <i>Ultrasound in Medicine and Biology</i>, vol. 45, no. 6, 2019.
