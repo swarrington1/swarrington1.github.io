@@ -21,3 +21,8 @@ Prior to my PhD, I completed the [Scientist Training Programme (STP)](https://ns
 In addition to my current role, I am also a tutor on the [Scholars Programme](https://thebrilliantclub.org/the-scholars-programme/) with the Brilliant Club.
 
 ![Brilliant Club Handbook](/images/brilliantclub.jpeg)
+
+Previous Research
+======
+
+Previous research interests include the characterisation of Multiple Sclerosis using novel MRI measures and the use of tissue equivalent test objects (TETOs) in ultrasound imaging quality control and how environmental conditions affect measures of image quality and scanner performance.
