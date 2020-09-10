@@ -26,6 +26,9 @@ Experience
 * Visiting Research Student
   * Tianjin University, Oct-Dec 2016
 
+* Ward Clerk
+  * University Hospitals Leicester, Dec 2013 - Aug 2014
+
 
 Skills
 ======
@@ -37,6 +40,24 @@ Skills
   * Python
   * Matlab
   * Bash
+
+Awards
+======
+* UoN Graduate School, Mar-May 2019
+* MRC Supplementary Funding, Mar 2018
+* IPEM funding, Mar 2017
+* NUH Charity Staff Development, Oct-Dec 2016
+* IPEM Travel Award, Nov 2015
+
+Other
+======
+* Journal paper reviews:
+  * Scientific Reports
+* Memberships and Professional Bodies:
+  * OHBM. Student Member, 2018-Current
+  * HCPC State Registered Clinical Scientist, 2017-Current
+  * IPEM, Associate Member, 2014-Current
+
 
 Publications
 ======
