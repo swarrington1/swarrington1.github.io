@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* BSc Physics, 2:1, University of Leicester, 2013
-* MSc Clinical Sciences (Imaging with Non-Ionising Radiation), Pass with Merit, university of Newcastle, 2017
 * PhD in Medicine, University of Nottingham, 2017-Current
+* MSc Clinical Sciences (Imaging with Non-Ionising Radiation), Pass with Merit, university of Newcastle, 2017
+* BSc Physics, 2:1, University of Leicester, 2013
 
 Experience
 ======
@@ -40,16 +40,16 @@ Skills
 
 Publications
 ======
-* M. Helmer, S. Warrington, A.-R. Mohammadi-Nejad, J. L. Ji, A. Howell, B. Rosand, A. Anticevic,S. N. Sotiropoulos, and J. D. Murray, “On stability of canonical correlation analysis and partial least squares with application to brain-behavior associations”, bioRxiv, 2020. [10.1101/2020.08.25.265546](10.1101/2020.08.25.265546).
-* S. Warrington, K. L. Bryant, A. A. Khrapitchev, J. Sallet, M. Charquero-Ballester, G. Douaud, S. Jbabdi, R. B. Mars, and S. N. Sotiropoulos, “XTRACT - standardised protocols for automated tractography in the human and macaque brain”, NeuroImage, vol. 217, 2020. [10.1016/j.neuroimage.2020.116923](10.1016/j.neuroimage.2020.116923).
-* E. Peake, S. Warrington, N. J. Dudley, P. S. Morgan, and N. M. Gibson, “A Method of Correcting for the Effect of Temperature on Low-Contrast Penetration Measurement in Urethane Phantoms”, Ultrasound in Medicine and Biology, vol. 45, no. 6, 2019.
+* M. Helmer, S. Warrington, A.-R. Mohammadi-Nejad, J. L. Ji, A. Howell, B. Rosand, A. Anticevic,S. N. Sotiropoulos, and J. D. Murray, “On stability of canonical correlation analysis and partial least squares with application to brain-behavior associations”, bioRxiv, 2020. [10.1101/2020.08.25.265546](https://www.biorxiv.org/content/10.1101/2020.08.25.265546v1).
+* S. Warrington, K. L. Bryant, A. A. Khrapitchev, J. Sallet, M. Charquero-Ballester, G. Douaud, S. Jbabdi, R. B. Mars, and S. N. Sotiropoulos, “XTRACT - standardised protocols for automated tractography in the human and macaque brain”, NeuroImage, vol. 217, 2020. [10.1016/j.neuroimage.2020.116923](https://www.sciencedirect.com/science/article/pii/S1053811920304092).
+* E. Peake, S. Warrington, N. J. Dudley, P. S. Morgan, and N. M. Gibson, “A Method of Correcting for the Effect of Temperature on Low-Contrast Penetration Measurement in Urethane Phantoms”, Ultrasound in Medicine and Biology, vol. 45, no. 6, 2019. [10.1016/j.ultrasmedbio.2019.02.012](https://www.umbjournal.org/article/S0301-5629(19)30079-1/abstract)
 
 Software Contributions
 ======
-* FSL's XTRACT (including xtract, xtract_viewer, xtract_stats)
+* FSL's [XTRACT](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/XTRACT) (including xtract, xtract_viewer, xtract_stats)
 * FSL's XTRACT WM tract atlases
-* FSL's diffusion microstructural atalses
-* Contributor to Qu|Nex diffusion pipelines
+* FSL's [HCP1065 standard-space DTI templates](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/Atlases)
+* Contributor to [QuNex](https://qunex.yale.edu/) diffusion pipelines
 
 Conference Presentations
 ======
