@@ -18,16 +18,13 @@ Education
 Experience
 ======
 * Scholars Programme Tutor
-  * The Brilliant Club
-  * 2018-Current
+  * The Brilliant Club, 2018-Current
 
 * Visiting Research Scholar
-  * Anticevic Lab, Yale University
-  * March-May 2019
+  * Anticevic Lab, Yale University, March-May 2019
 
 * Visiting Research Student
-  * Tianjin University
-  * Oct-Dec 2016
+  * Tianjin University, Oct-Dec 2016
 
 
 Skills
