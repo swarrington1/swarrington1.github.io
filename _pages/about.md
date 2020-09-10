@@ -16,13 +16,8 @@ In collaboration with the [Murray](https://medicine.yale.edu/lab/murray/) and [A
 
 These works make use of large cohort datasets such as the Human Connectome Project (HCP) and UK Biobank.
 
-Prior to my PhD, I completed the [Scientist Training Programme (STP)](https://nshcs.hee.nhs.uk/programmes/stp/) at Nottingham University Hospitals NHS Trust leading to state registration as a Clinical Scientist. During my STP, I specialised in Imaging with Non-Ionising Radiation and completed a part-time MSc in Clinical Sciences (Medical Physics) at the University of Newcastle.
+Prior to my PhD, I completed the [Scientist Training Programme (STP)](https://nshcs.hee.nhs.uk/programmes/stp/) at Nottingham University Hospitals NHS Trust leading to state registration as a Clinical Scientist. During my STP, I specialised in Imaging with Non-Ionising Radiation and completed a part-time MSc in Clinical Sciences (Medical Physics) at the University of Newcastle. In my MSc, my disseration focused on using MRI-derived measures of lesion volume and atrophy to better characterise Multiple Sclerosis. In addition, during the STP, I was involved in a project investigating the use of tissue equivalent test objects (TETOs) in ultrasound imaging quality control and how environmental conditions affect measures of image quality and scanner performance. In the final year of my STP, I completed an elective placement at the Department of Mechanical Engineering, Tianjin University, China where I focused on image segmentation of CT lung data, contributing to the development of a semi-automated CT-guided brachytherapy system.
 
 In addition to my current role, I am also a tutor on the [Scholars Programme](https://thebrilliantclub.org/the-scholars-programme/) with the Brilliant Club.
 
 ![Brilliant Club Handbook](/images/brilliantclub.jpeg)
-
-Previous Research
-======
-
-Previous research interests include the characterisation of Multiple Sclerosis using novel MRI measures and the use of tissue equivalent test objects (TETOs) in ultrasound imaging quality control and how environmental conditions affect measures of image quality and scanner performance.

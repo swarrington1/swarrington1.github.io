@@ -17,17 +17,17 @@ Education
 
 Experience
 ======
-* Scholars Programme Tutor
-  * The Brilliant Club, 2018-Current
-
 * Visiting Research Scholar
   * Anticevic Lab, Yale University, March-May 2019
 
+* Scholars Programme Tutor
+  * The Brilliant Club, 2018-Current
+
 * Visiting Research Student
-  * Tianjin University, Oct-Dec 2016
+  * Department of Mechanical Engineering, Tianjin University, Oct-Dec 2016
 
 * Ward Clerk
-  * University Hospitals Leicester, Dec 2013 - Aug 2014
+  * University Hospitals of Leicester, Dec 2013 - Aug 2014
 
 
 Skills
@@ -43,11 +43,11 @@ Skills
 
 Awards
 ======
-* UoN Graduate School, Mar-May 2019
-* MRC Supplementary Funding, Mar 2018
-* IPEM funding, Mar 2017
-* NUH Charity Staff Development, Oct-Dec 2016
-* IPEM Travel Award, Nov 2015
+* UoN Graduate School, March-May 2019
+* MRC Supplementary Funding, March 2018 - Funding the visit to the Anticevic Lab
+* IPEM funding, March 2017
+* NUH Charity Staff Development, October-December 2016 - Funding the visit to the Department of Mechanical Engineering, Tianjin University
+* IPEM Travel Award, November 2015
 
 Other
 ======
