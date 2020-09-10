@@ -40,8 +40,8 @@ Skills
 
 Publications
 ======
-* M. Helmer, S. Warrington, A.-R. Mohammadi-Nejad, J. L. Ji, A. Howell, B. Rosand, A. Anticevic,S. N. Sotiropoulos, and J. D. Murray, “On stability of canonical correlation analysis and partial least squares with application to brain-behavior associations”, bioRxiv, 2020. eprint:10.1101/2020.08.25.265546.
-* S. Warrington, K. L. Bryant, A. A. Khrapitchev, J. Sallet, M. Charquero-Ballester, G. Douaud, S. Jbabdi, R. B. Mars, and S. N. Sotiropoulos, “XTRACT - standardised protocols for automated tractography in the human and macaque brain”, NeuroImage, vol. 217, 2020.
+* M. Helmer, S. Warrington, A.-R. Mohammadi-Nejad, J. L. Ji, A. Howell, B. Rosand, A. Anticevic,S. N. Sotiropoulos, and J. D. Murray, “On stability of canonical correlation analysis and partial least squares with application to brain-behavior associations”, bioRxiv, 2020. [10.1101/2020.08.25.265546](10.1101/2020.08.25.265546).
+* S. Warrington, K. L. Bryant, A. A. Khrapitchev, J. Sallet, M. Charquero-Ballester, G. Douaud, S. Jbabdi, R. B. Mars, and S. N. Sotiropoulos, “XTRACT - standardised protocols for automated tractography in the human and macaque brain”, NeuroImage, vol. 217, 2020. [10.1016/j.neuroimage.2020.116923](10.1016/j.neuroimage.2020.116923).
 * E. Peake, S. Warrington, N. J. Dudley, P. S. Morgan, and N. M. Gibson, “A Method of Correcting for the Effect of Temperature on Low-Contrast Penetration Measurement in Urethane Phantoms”, Ultrasound in Medicine and Biology, vol. 45, no. 6, 2019.
 
 Software Contributions
