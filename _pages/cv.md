@@ -27,6 +27,9 @@ Experience
 * Visiting Research Student
   * Department of Mechanical Engineering, Tianjin University, Oct-Dec 2016
 
+* STEM Ambassador
+  * STEMNET, 2016-Current
+
 * Ward Clerk
   * University Hospitals of Leicester, Dec 2013 - Aug 2014
 
