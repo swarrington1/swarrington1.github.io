@@ -15,6 +15,7 @@ Education
 * MSc Clinical Sciences (Imaging with Non-Ionising Radiation), Pass with Merit, University of Newcastle, 2017
 * BSc Physics, 2:1, University of Leicester, 2013
 
+
 Experience
 ======
 * Visiting Research Scholar
@@ -30,6 +31,7 @@ Experience
   * University Hospitals of Leicester, Dec 2013 - Aug 2014
 
 
+
 Skills
 ======
 * Operating systems
@@ -41,6 +43,7 @@ Skills
   * Matlab
   * Bash
 
+
 Awards
 ======
 * UoN Graduate School, March-May 2019
@@ -48,6 +51,7 @@ Awards
 * IPEM funding, March 2017
 * NUH Charity Staff Development, October-December 2016 - Funding the visit to the Department of Mechanical Engineering, Tianjin University
 * IPEM Travel Award, November 2015
+
 
 Other
 ======
@@ -65,12 +69,14 @@ Publications
 * S. Warrington, K. L. Bryant, A. A. Khrapitchev, J. Sallet, M. Charquero-Ballester, G. Douaud, S. Jbabdi, R. B. Mars, and S. N. Sotiropoulos, “XTRACT - standardised protocols for automated tractography in the human and macaque brain”, NeuroImage, vol. 217, 2020. [10.1016/j.neuroimage.2020.116923](https://www.sciencedirect.com/science/article/pii/S1053811920304092).
 * E. Peake, S. Warrington, N. J. Dudley, P. S. Morgan, and N. M. Gibson, “A Method of Correcting for the Effect of Temperature on Low-Contrast Penetration Measurement in Urethane Phantoms”, Ultrasound in Medicine and Biology, vol. 45, no. 6, 2019. [10.1016/j.ultrasmedbio.2019.02.012](https://www.umbjournal.org/article/S0301-5629(19)30079-1/abstract)
 
+
 Software Contributions
 ======
 * FSL's [XTRACT](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/XTRACT) (including xtract, xtract_viewer, xtract_stats)
 * FSL's XTRACT WM tract atlases
 * FSL's [HCP1065 standard-space DTI templates](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/Atlases)
 * Contributor to [QuNex](https://qunex.yale.edu/) diffusion pipelines
+
 
 Conference Presentations
 ======
