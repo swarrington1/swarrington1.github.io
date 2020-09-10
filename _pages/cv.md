@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * PhD in Medicine, University of Nottingham, 2017-Current
-* MSc Clinical Sciences (Imaging with Non-Ionising Radiation), Pass with Merit, university of Newcastle, 2017
+* MSc Clinical Sciences (Imaging with Non-Ionising Radiation), Pass with Merit, University of Newcastle, 2017
 * BSc Physics, 2:1, University of Leicester, 2013
 
 Experience
@@ -54,8 +54,8 @@ Other
 * Journal paper reviews:
   * Scientific Reports
 * Memberships and Professional Bodies:
-  * OHBM. Student Member, 2018-Current
-  * HCPC State Registered Clinical Scientist, 2017-Current
+  * OHBM, Student Member, 2018-Current
+  * HCPC, State Registered Clinical Scientist, 2017-Current
   * IPEM, Associate Member, 2014-Current
 
 
