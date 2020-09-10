@@ -11,49 +11,44 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc Physics, 2:1, University of Leicester, 2013
+* MSc Clinical Sciences (Imaging with Non-Ionising Radiation), Pass with Merit, university of Newcastle, 2017
+* PhD in Medicine, University of Nottingham, 2017-Current
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Scholars Programme Tutor
+  * The Brilliant Club
+  * 2018-Current
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Visiting Research Scholar
+  * Anticevic Lab, Yale University
+  * March-May 2019
+
+* Visiting Research Student
+  * Tianjin University
+  * Oct-Dec 2016
+
+
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Operating systems
+  * GNU/Linux
+  * Mac OS
+  * Windows
+* Programming Languages
+  * Python
+  * Matlab
+  * Bash
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* M. Helmer, S. Warrington, A.-R. Mohammadi-Nejad, J. L. Ji, A. Howell, B. Rosand, A. Anticevic,S. N. Sotiropoulos, and J. D. Murray, “On stability of canonical correlation analysis and partial leastsquares with application to brain-behavior associations”, bioRxiv, 2020. eprint:10.1101/2020.08.25.265546.
+* S. Warrington, K. L. Bryant, A. A. Khrapitchev, J. Sallet, M. Charquero-Ballester, G. Douaud,S. Jbabdi, R. B. Mars, and S. N. Sotiropoulos, “XTRACT - standardised protocols for automatedtractography in the human and macaque brain”, NeuroImage, vol. 217, 2020.
+* E. Peake, S. Warrington, N. J. Dudley, P. S. Morgan, and N. M. Gibson, “A Method of Correcting forthe Effect of Temperature on Low-Contrast Penetration Measurement in Urethane Phantoms”, Ultrasound in Medicine and Biology, vol. 45, no. 6, 2019.
+
+
+Conference Presentations
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
