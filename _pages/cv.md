@@ -84,9 +84,22 @@ Software Contributions
 Conference Presentations
 ======
 
-* H. Rafipoor, S. Warrington, K. Bryant, S.N. Sotiropoulos, M. Cottaar, R.B. Mars, S. Jbabdi, "Cross-species parcellation of the corpus callosum using joint embedding of connectivity blueprints", Organization for Human Brain Mapping (OHBM), 2020
-* M. Helmer, S. Warrington, J.L. Ji, A. Howell, B. Rosand, A. Anticevic, S.N. Sotiropoulos, J.D. Murray, "Reliable estimation of Canonical Correlation Analysis (CCA) and Partial Least Squares (PLS) with application to brain-behavior associations", Organization for Human Brain Mapping (OHBM), 2020
 * S. Warrington, M. Helmer, J.L. Ji, A.-R. Mohammadi-Nejad, A. Anticevic, J.D. Murray, S.N. Sotiropoulos, "Exploring the stability of canonical correlation analysis between imaging and non-imaging datasets", Organization for Human Brain Mapping (OHBM), 2020
+
+* H. Rafipoor, S. Warrington, K. Bryant, S.N. Sotiropoulos, M. Cottaar, R.B. Mars, S. Jbabdi, "Cross-species parcellation of the corpus callosum using joint embedding of connectivity blueprints", Organization for Human Brain Mapping (OHBM), 2020
+
+* M. Helmer, S. Warrington, J.L. Ji, A. Howell, B. Rosand, A. Anticevic, S.N. Sotiropoulos, J.D. Murray, "Reliable estimation of Canonical Correlation Analysis (CCA) and Partial Least Squares (PLS) with application to brain-behavior associations", Organization for Human Brain Mapping (OHBM), 2020
+
+* A. Howell, S. Warrington, J.L. Ji, A. Kolobaric, B. Adkinson, C. Fonteneau, S.N. Sotiropoulos, J.D. Murray, A. Anticevic, "Exploring the topography of structure-function mappings across cortico-thalamic systems.", Organization for Human Brain Mapping (OHBM), 2020
+
 * A. Howell, S. Warrington, J.L. Ji, B. Adkinson, S.N. Sotiropoulos, J.D. Murray, A. Anticevic, "Defining Targeted Projection Patterns in Thalamus Using Diffusion Weighted Imaging", 2020, Biological Psychiatry 87(9):S380, DOI: 10.1016/j.biopsych.2020.02.973
+
+* S. Warrington, K. L. Bryant, M. Charquero-Ballester, G. Douaud, S. Jbabdi, R. B. Mars, and S. N. Sotiropoulos, "Standardised protocols for automated tractography and connectivity blueprints", MRC IMPACT DTP Student Symposium, 2019 - Awarded 1st Place in the poster competition
+
 * S. Warrington, K. L. Bryant, M. Charquero-Ballester, G. Douaud, S. Jbabdi, R. B. Mars, and S. N. Sotiropoulos, "Standardised protocols for automated tractography and connectivity blueprints", Organization for Human Brain Mapping (OHBM), 2019
+
+* A.M. Howell, S. Warrington, J.L. Ji, B. Adkinson, S.N. Sotiropoulos, J.D. Murray, A. Anticevic, "Characterizing higher-order thalamo-cortical projection patterns in humans.", Society for Neuroscience, 2019
+
+* H. Ganjgahi, J. Bijsterbosch, E.W. Daw, B. Donohue, E. Fieremans, D. Gahn, M. Glasser, M. Harms, M. Hodge, S. Jbabdi, P. Kochunov, J. Marchini, D. Novikov, S. Smith, S Sotiropoulos, D Van Essen, J Veraart, S Warrington, A Winkler, T Nichols, "Genetics of the Young Adult Human Connectome Project", Organization for Human Brain Mapping (OHBM), 2018
+
 * S. Warrington, A. Pitiot, N. Evangelou, P. Morgan, "Using advanced MRI techniques to improve the characterisation of Multiple Sclerosis", STEM for Britian, 2017
