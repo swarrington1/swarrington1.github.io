@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD Student at the [CoNI Lab](https://spmic-uon.github.io/conilab/), University of Nottingham studying the associations between brain connectivity and behaviour supervised by Stamatios Sotiropoulos and funded by the [MRC IMPACT DTP](https://more.bham.ac.uk/mrc-impact/). During my PhD I developed [FSL's XTRACT](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/XTRACT) for the standardised and automated extraction of major white matter fibre bundles in the human and macaque brain.
+I am currently a PhD Student at the [CoNI Lab](https://spmic-uon.github.io/conilab/), University of Nottingham, studying the associations between brain connectivity and behaviour supervised by Stamatios Sotiropoulos and funded by the [MRC IMPACT DTP](https://more.bham.ac.uk/mrc-impact/). During my PhD I developed [FSL's XTRACT](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/XTRACT) for the standardised and automated extraction of major white matter fibre bundles in the human and macaque brain.
 
 ![FSL's XTRACT](/images/HCP_xtract.gif)
 

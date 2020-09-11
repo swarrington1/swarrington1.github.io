@@ -9,10 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
+Current Position
+======
+PhD Student (Medicine) in the [CoNI Lab](https://spmic-uon.github.io/conilab/), University of Nottingham, studying brain-behaviour associations and developing standardised and automated tractography tools.
+
 Education
 ======
 * PhD in Medicine, University of Nottingham, 2017-Current
+  * Supervisor: Stamatios Sotiropoulos
+  * Funding: MRC IMPACT DTP
+  * Thesis title: Unravelling the associations between multi-modal brain connectivity, genetic factors and behaviour
 * MSc Clinical Sciences (Imaging with Non-Ionising Radiation), University of Newcastle, 2014-2017
+  * Thesis title: Using advanced Magnetic Resonance Imaging techniques to improve the characterisation of multiple sclerosis
 * BSc Physics, University of Leicester, 2010-2013
 
 
@@ -49,7 +57,7 @@ Skills
 Awards
 ======
 * First Place Poster Prize for the MRC IMPACT DTP Student Symposium poster competition. October 2019
-* UoN Graduate School, supporting the visit to Anticevic Lab, starting a collaborative project on exploring the stability of multivariate statistical methods. March-May 2019
+* UoN Graduate School Flexible Funding, supporting the visit to Anticevic Lab, starting a collaborative project on exploring the stability of multivariate statistical methods. March-May 2019
 * ISMRM New Entrant Stipend to attend the 2018 Joint Annual Meeting ISMRM-ESMRMB. June 2018
 * MRC Supplementary Funding, funding to attend the HCP 2018 Course: Exploring the Human Connectome. March 2018
 * IPEM funding awarded to cover expenses for STEM for Britain 2017. March 2017
