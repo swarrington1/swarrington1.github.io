@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * PhD in Medicine, University of Nottingham, 2017-Current
-* MSc Clinical Sciences (Imaging with Non-Ionising Radiation), Pass with Merit, University of Newcastle, 2017
-* BSc Physics, 2:1, University of Leicester, 2013
+* MSc Clinical Sciences (Imaging with Non-Ionising Radiation), University of Newcastle, 2014-2017
+* BSc Physics, University of Leicester, 2010-2013
 
 
 Experience
@@ -32,7 +32,6 @@ Experience
 
 * Ward Clerk
   * University Hospitals of Leicester, Dec 2013 - Aug 2014
-
 
 
 Skills
