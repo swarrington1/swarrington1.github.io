@@ -94,9 +94,9 @@ Conference Presentations
 
 * A. Howell, S. Warrington, J.L. Ji, B. Adkinson, S.N. Sotiropoulos, J.D. Murray, A. Anticevic, "Defining Targeted Projection Patterns in Thalamus Using Diffusion Weighted Imaging", 2020, Biological Psychiatry 87(9):S380, DOI: 10.1016/j.biopsych.2020.02.973
 
-* S. Warrington, K. L. Bryant, M. Charquero-Ballester, G. Douaud, S. Jbabdi, R. B. Mars, and S. N. Sotiropoulos, "Standardised protocols for automated tractography and connectivity blueprints", MRC IMPACT DTP Student Symposium, 2019 - Awarded 1st Place in the poster competition
+* S. Warrington, K.L. Bryant, M. Charquero-Ballester, G. Douaud, S. Jbabdi, R. B. Mars, and S.N. Sotiropoulos, "Standardised protocols for automated tractography and connectivity blueprints", MRC IMPACT DTP Student Symposium, 2019 - Awarded 1st Place in the poster competition
 
-* S. Warrington, K. L. Bryant, M. Charquero-Ballester, G. Douaud, S. Jbabdi, R. B. Mars, and S. N. Sotiropoulos, "Standardised protocols for automated tractography and connectivity blueprints", Organization for Human Brain Mapping (OHBM), 2019
+* S. Warrington, K.L. Bryant, M. Charquero-Ballester, G. Douaud, S. Jbabdi, R.B. Mars, and S.N. Sotiropoulos, "Standardised protocols for automated tractography and connectivity blueprints", Organization for Human Brain Mapping (OHBM), 2019
 
 * A.M. Howell, S. Warrington, J.L. Ji, B. Adkinson, S.N. Sotiropoulos, J.D. Murray, A. Anticevic, "Characterizing higher-order thalamo-cortical projection patterns in humans.", Society for Neuroscience, 2019
 
