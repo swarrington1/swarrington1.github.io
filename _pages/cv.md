@@ -100,6 +100,6 @@ Conference Presentations
 
 * A.M. Howell, S. Warrington, J.L. Ji, B. Adkinson, S.N. Sotiropoulos, J.D. Murray, A. Anticevic, "Characterizing higher-order thalamo-cortical projection patterns in humans.", Society for Neuroscience, 2019
 
-* H. Ganjgahi, J. Bijsterbosch, E.W. Daw, B. Donohue, E. Fieremans, D. Gahn, M. Glasser, M. Harms, M. Hodge, S. Jbabdi, P. Kochunov, J. Marchini, D. Novikov, S. Smith, S Sotiropoulos, D Van Essen, J Veraart, S Warrington, A Winkler, T Nichols, "Genetics of the Young Adult Human Connectome Project", Organization for Human Brain Mapping (OHBM), 2018
+* H. Ganjgahi, J. Bijsterbosch, E.W. Daw, B. Donohue, E. Fieremans, D. Gahn, M. Glasser, M. Harms, M. Hodge, S. Jbabdi, P. Kochunov, J. Marchini, D. Novikov, S. Smith, S. Sotiropoulos, D. Van Essen, J. Veraart, S. Warrington, A. Winkler, T. Nichols, "Genetics of the Young Adult Human Connectome Project", Organization for Human Brain Mapping (OHBM), 2018
 
 * S. Warrington, A. Pitiot, N. Evangelou, P. Morgan, "Using advanced MRI techniques to improve the characterisation of Multiple Sclerosis", STEM for Britian, 2017
