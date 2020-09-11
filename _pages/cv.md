@@ -48,16 +48,18 @@ Skills
 
 Awards
 ======
-* UoN Graduate School, March-May 2019
-* MRC Supplementary Funding, March 2018 - Funding the visit to the Anticevic Lab
-* IPEM funding, March 2017
-* NUH Charity Staff Development, October-December 2016 - Funding the visit to the Department of Mechanical Engineering, Tianjin University
-* IPEM Travel Award, November 2015
+* First Place Poster Prize for the MRC IMPACT DTP Student Symposium poster competition. October 2019
+* UoN Graduate School, supporting the visit to Anticevic Lab, starting a collaborative project on exploring the stability of multivariate statistical methods. March-May 2019
+* ISMRM New Entrant Stipend to attend the 2018 Joint Annual Meeting ISMRM-ESMRMB. June 2018
+* MRC Supplementary Funding, funding to attend the HCP 2018 Course: Exploring the Human Connectome. March 2018
+* IPEM funding awarded to cover expenses for STEM for Britain 2017. March 2017
+* NUH Charity Staff Development, funding the visit to the Department of Mechanical Engineering, Tianjin University. October-December 2016
+* IPEM Travel Award to attend IPEM’s MR Safety Update Conference. November 2015
 
 
 Other
 ======
-* Journal paper reviews:
+* Ad-hoc Peer Reviewer:
   * Scientific Reports
 * Memberships and Professional Bodies:
   * OHBM, Student Member, 2018-Current
