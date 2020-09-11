@@ -10,7 +10,7 @@ citation: 'M. Helmer, S. Warrington, A.-R. Mohammadi-Nejad, J. L. Ji, A. Howell,
 ---
 
 
-[Download paper here](https://www.biorxiv.org/content/10.1101/2020.08.25.265546v1)
+[Download paper here](https://www.biorxiv.org/content/10.1101/2020.08.25.265546v1.full.pdf)
 
 Abstract
 

@@ -9,7 +9,7 @@ paperurl: 'https://www.sciencedirect.com/science/article/pii/S1053811920304092'
 citation: 'S. Warrington, K. L. Bryant, A. A. Khrapitchev, J. Sallet, M. Charquero-Ballester, G. Douaud, S. Jbabdi, R. B. Mars, and S. N. Sotiropoulos, “XTRACT - standardised protocols for automated tractography in the human and macaque brain”, <i>NeuroImage</i>, vol. 217, 2020.'
 ---
 
-[Download paper here](https://www.sciencedirect.com/science/article/pii/S1053811920304092)
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S1053811920304092/pdfft?md5=701715234b1b032c800d0ad7b81a29c7&pid=1-s2.0-S1053811920304092-main.pdf)
 
 Abstract
 
