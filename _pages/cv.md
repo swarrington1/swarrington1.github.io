@@ -103,3 +103,7 @@ Conference Presentations
 * H. Ganjgahi, J. Bijsterbosch, E.W. Daw, B. Donohue, E. Fieremans, D. Gahn, M. Glasser, M. Harms, M. Hodge, S. Jbabdi, P. Kochunov, J. Marchini, D. Novikov, S. Smith, S. Sotiropoulos, D. Van Essen, J. Veraart, S. Warrington, A. Winkler, T. Nichols, "Genetics of the Young Adult Human Connectome Project", Organization for Human Brain Mapping (OHBM), 2018
 
 * S. Warrington, A. Pitiot, N. Evangelou, P. Morgan, "Using advanced MRI techniques to improve the characterisation of Multiple Sclerosis", STEM for Britian, 2017
+
+Other Publications
+======
+* S. Warrington, "Image-guided surgical robots for brachytherapy", IPEM's SCOPE Magazine, Special Reports, Sep 2017
