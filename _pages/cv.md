@@ -35,6 +35,9 @@ Experience
 * Visiting Research Student
   * Department of Mechanical Engineering, Tianjin University, Oct-Dec 2016
 
+* Trainee Clinical Scientist (Scientist Training Programme)
+  * Nottingham University Hospitals, 2014-2017
+
 * STEM Ambassador
   * STEMNET, 2016-Current
 
