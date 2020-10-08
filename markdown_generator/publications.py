@@ -49,7 +49,8 @@ html_escape_table = {
     '"': "&quot;",
     "'": "&apos;",
     ":": "&#58;",
-    "?": "&#63;"
+    "?": "&#63;",
+    "°": "&deg;"
     }
 
 def html_escape(text):
