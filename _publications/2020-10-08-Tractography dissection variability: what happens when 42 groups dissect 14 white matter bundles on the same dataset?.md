@@ -1,5 +1,5 @@
 ---
-title: "Tractography dissection variability: what happens when 42 groups dissect 14 white matter bundles on the same dataset?"
+title: "Tractography dissection variability: what happens when 42 groups dissect 14 white matter bundles on the same dataset"
 collection: publications
 permalink: /publication/2020-10-08-Tractography dissection variability: what happens when 42 groups dissect 14 white matter bundles on the same dataset?
 date: 2020-10-08
