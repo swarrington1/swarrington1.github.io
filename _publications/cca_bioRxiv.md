@@ -6,7 +6,7 @@ excerpt: ''
 date: 2020-08-25
 venue: 'bioRxiv'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2020.08.25.265546v1'
-citation: 'M. Helmer, S. Warrington, A.-R. Mohammadi-Nejad, J. L. Ji, A. Howell, B. Rosand, A. Anticevic, S. N. Sotiropoulos, and J. D. Murray, “On stability of canonical correlation analysis and partial least squares with application to brain-behavior associations”, <i>bioRxiv</i>, 2020.'
+citation: 'Helmer, M., Warrington, S., Mohammadi-Nejad, A.-R., Ji, J.L., Howell, A., Rosand, B., Anticevic, A., Sotiropoulos, S.N., and Murray, J.D., “On stability of canonical correlation analysis and partial least squares with application to brain-behavior associations”, <i>bioRxiv</i>, 2020.'
 ---
 
 
