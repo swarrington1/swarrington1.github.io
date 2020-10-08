@@ -1,7 +1,7 @@
 ---
 title: "On stability of Canonical Correlation Analysis and Partial Least Squares with application to brain-behavior associations"
 collection: publications
-permalink: /publication/cca_bioRxiv
+permalink: /publications/cca_bioRxiv
 excerpt: ''
 date: 2020-08-25
 venue: 'bioRxiv'

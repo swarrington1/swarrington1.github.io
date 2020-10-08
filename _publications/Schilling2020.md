@@ -1,7 +1,7 @@
 ---
 title: "Tractography dissection variability: what happens when 42 groups dissect 14 white matter bundles on the same dataset?"
 collection: publications
-permalink: /publication/Schilling2020
+permalink: /publications/Schilling2020
 excerpt: ''
 date: 2020-10-08
 venue: 'bioRxiv'

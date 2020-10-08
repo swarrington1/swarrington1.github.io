@@ -1,7 +1,7 @@
 ---
 title: "A Method of Correcting for the Effect of Temperature on Low-Contrast Penetration Measurement in Urethane Phantoms"
 collection: publications
-permalink: /publication/ultrasound_umb
+permalink: /publications/ultrasound_umb
 excerpt: ''
 date: 2019-04-06
 venue: 'Ultrasound in Medicine and Biology'
