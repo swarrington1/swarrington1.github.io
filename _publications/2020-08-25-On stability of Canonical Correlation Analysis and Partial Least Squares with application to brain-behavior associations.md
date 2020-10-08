@@ -9,5 +9,3 @@ citation: 'Helmer, M., Warrington, S., Mohammadi-Nejad, A.-R., Ji, J.L., Howell,
 ---
 
 <a href='https://www.biorxiv.org/content/10.1101/2020.08.25.265546v1'>Download paper here</a>
-
-Recommended citation: Helmer, M., Warrington, S., Mohammadi-Nejad, A.-R., Ji, J.L., Howell, A., Rosand, B., Anticevic, A., Sotiropoulos, S.N., and Murray, J.D. (2020). "On stability of Canonical Correlation Analysis and Partial Least Squares with application to brain-behavior associations" <i>BioRxiv</i>.
