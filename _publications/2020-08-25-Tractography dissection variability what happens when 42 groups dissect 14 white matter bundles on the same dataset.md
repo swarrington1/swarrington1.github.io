@@ -2,7 +2,6 @@
 title: "Tractography dissection variability: what happens when 42 groups dissect 14 white matter bundles on the same dataset?"
 collection: publications
 permalink: /publication/2020-08-25-Tractography dissection variability what happens when 42 groups dissect 14 white matter bundles on the same dataset
-''
 date: 2020-08-25
 venue: 'bioRxiv'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2020.10.07.321083v1'
@@ -10,5 +9,3 @@ citation: 'Schilling, K.G., Rheault, F., Petit, L., Hansen, C.B., Nath, V., Yeh,
 ---
 
 <a href='https://www.biorxiv.org/content/10.1101/2020.10.07.321083v1'>Download paper here</a>
-
-Abstract: White matter bundle segmentation using diffusion MRI fiber tractography has become the method of choice to identify white matter fiber pathways in vivo in human brains. However, like other analyses of complex data, there is considerable variability in segmentation protocols and techniques. This can result in different reconstructions of the same intended white matter pathways, which directly affects tractography results, quantification, and interpretation. In this study, we aim to evaluate and quantify the variability that arises from different protocols for bundle segmentation. Through an open call to users of fiber tractography, including anatomists, clinicians, and algorithm developers, 42 independent teams were given processed sets of human whole-brain streamlines and asked to segment 14 white matter fascicles on six subjects. In total, we received 57 different bundle segmentation protocols, which enabled detailed volume-based and streamline-based analyses of agreement and disagreement among protocols for each fiber pathway. Results show that even when given the exact same sets of underlying streamlines, the variability in the protocols for bundle segmentation is greater than all other sources of variability in the virtual dissection process, including variability within protocols and variability across subjects. In order to foster the use of tractography bundle dissection in routine clinical settings, and as a fundamental analytical tool, future endeavors must aim to resolve and reduce this heterogeneity. Although external validation is needed to verify the anatomical accuracy of bundle dissections, reducing heterogeneity is a step twowards reproducible research and may be achieved through the use of standard nomenclature and definitions of white matter bundles and well-chosen constraints and decisions in the dissection process.
