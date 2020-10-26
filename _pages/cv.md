@@ -72,6 +72,7 @@ Other
 ======
 * Ad-hoc Peer Reviewer:
   * Scientific Reports
+  * NeuroImage
 * Memberships and Professional Bodies:
   * OHBM, Student Member, 2018-Current
   * HCPC, State Registered Clinical Scientist, 2017-Current
