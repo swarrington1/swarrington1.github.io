@@ -18,7 +18,7 @@ Education
 * PhD in Medicine, University of Nottingham, 2017-Current
   * Supervisor: Stamatios Sotiropoulos
   * Funding: MRC IMPACT DTP
-  * Thesis title: Unravelling the associations between multi-modal brain connectivity, genetic factors and behaviour
+  * Thesis title: Brain connectivity mapping with diffusion MRI across individuals and species
 * MSc Clinical Sciences (Imaging with Non-Ionising Radiation), University of Newcastle, 2014-2017
   * Thesis title: Using advanced Magnetic Resonance Imaging techniques to improve the characterisation of multiple sclerosis
 * BSc Physics, University of Leicester, 2010-2013
