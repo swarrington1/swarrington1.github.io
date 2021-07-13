@@ -9,67 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {
-  box-sizing: border-box;
-}
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 10px;
-}
-
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-</style>
-</head>
-<body>
-
-<h2>Three Equal Columns</h2>
-
-<div class="row">
-  <div class="column" style="background-color:#aaa;">
-    <h2>Skills</h2>
-    ======
-    * Operating systems
-      * GNU/Linux
-      * Mac OS
-      * Windows
-    * Programming Languages
-      * Python
-      * Matlab
-      * Bash
-    * Tools
-      * SLURM job scheduler
-      * Git
-      * LaTeX
-      * Neuroimage processing tools (FSL, SPM, ...)
-  </div>
-  <div class="column" style="background-color:#bbb;">
-    <h2>Other</h2>
-    ======
-    * Ad-hoc Peer Reviewer:
-      * NMR in Biomedicine
-      * Scientific Reports
-      * NeuroImage
-    * Memberships and Professional Bodies:
-      * OHBM, Student Member, 2018-Current
-      * HCPC, State Registered Clinical Scientist, 2017-Current
-      * IPEM, Associate Member, 2014-Current
-  </div>
-  <div class="column" style="background-color:#ccc;">
-    <h2>Column 3</h2>
-    <p>Some text..</p>
-  </div>
-</div>
-</body>
-
-
 Current Position
 ======
 Research Assistant in the [CoNI Lab](https://spmic-uon.github.io/conilab/), University of Nottingham, researching brain-behaviour associations and developing standardised and automated tractography tools.
@@ -121,6 +60,7 @@ Skills
   * Python
   * Matlab
   * Bash
+  * Basic HTML
 * Tools
   * SLURM job scheduler
   * Git
