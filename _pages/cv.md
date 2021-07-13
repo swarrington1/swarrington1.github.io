@@ -10,15 +10,12 @@ redirect_from:
 {% include base_path %}
 
 
-/* Create three equal columns that floats next to each other */
 .column {
   float: left;
   width: 33.33%;
   padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
 }
 
-/* Clear floats after the columns */
 .row:after {
   content: "";
   display: table;
