@@ -34,19 +34,40 @@ redirect_from:
 
 <div class="row">
   <div class="column" style="background-color:#aaa;">
-    <h2>Column 1</h2>
-    <p>Some text..</p>
+    <h2>Skills</h2>
+    ======
+    * Operating systems
+      * GNU/Linux
+      * Mac OS
+      * Windows
+    * Programming Languages
+      * Python
+      * Matlab
+      * Bash
+    * Tools
+      * SLURM job scheduler
+      * Git
+      * LaTeX
+      * Neuroimage processing tools (FSL, SPM, ...)
   </div>
   <div class="column" style="background-color:#bbb;">
-    <h2>Column 2</h2>
-    <p>Some text..</p>
+    <h2>Other</h2>
+    ======
+    * Ad-hoc Peer Reviewer:
+      * NMR in Biomedicine
+      * Scientific Reports
+      * NeuroImage
+    * Memberships and Professional Bodies:
+      * OHBM, Student Member, 2018-Current
+      * HCPC, State Registered Clinical Scientist, 2017-Current
+      * IPEM, Associate Member, 2014-Current
   </div>
   <div class="column" style="background-color:#ccc;">
     <h2>Column 3</h2>
     <p>Some text..</p>
   </div>
 </div>
-
+</body>
 
 
 Current Position
