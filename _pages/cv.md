@@ -16,7 +16,7 @@ Research Assistant in the [CoNI Lab](https://spmic-uon.github.io/conilab/), Univ
 
 Education
 ======
-* PhD in Medicine, University of Nottingham, 2017-2021
+* PhD in Brain Connectivity Mapping, University of Nottingham, 2017-2021
   * Supervisor: Stamatios Sotiropoulos
   * Funding: MRC IMPACT DTP
   * Thesis title: Brain connectivity mapping with diffusion MRI across individuals and species
