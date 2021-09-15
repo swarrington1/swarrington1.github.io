@@ -83,6 +83,7 @@ Awards
 Other
 ======
 * Ad-hoc Peer Reviewer:
+  * Human Brain Mapping
   * NMR in Biomedicine
   * Scientific Reports
   * NeuroImage
@@ -94,7 +95,7 @@ Other
 
 Publications
 ======
-* K.G. Schilling, ..., S. Warrington, et al., “Tractography dissection variability: what happens when 42 groups dissect 14 white matter bundles on the same dataset?”, <i>bioRxiv</i>, 2020. [10.1101/2020.10.07.321083v1](https://www.biorxiv.org/content/10.1101/2020.10.07.321083v1)
+* K.G. Schilling, ..., S. Warrington, et al., “Tractography dissection variability: what happens when 42 groups dissect 14 white matter bundles on the same dataset?”, <i>NeuroImage</i>, 2021. [10.1016/j.neuroimage.2021.118502](https://doi.org/10.1016/j.neuroimage.2021.118502)
 
 * M. Helmer, S. Warrington, A.-R. Mohammadi-Nejad, J. L. Ji, A. Howell, B. Rosand, A. Anticevic,S. N. Sotiropoulos, and J. D. Murray, “On stability of canonical correlation analysis and partial least squares with application to brain-behavior associations”, <i>bioRxiv</i>, 2020. [10.1101/2020.08.25.265546](https://www.biorxiv.org/content/10.1101/2020.08.25.265546v1).
 
@@ -105,13 +106,13 @@ Publications
 
 Software Contributions
 ======
-* FSL's [XTRACT](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/XTRACT)
+* [XTRACT](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/XTRACT)
   * xtract
   * xtract_viewer
   * xtract_stats
   * xtract_blueprint
-* FSL's [XTRACT WM tract atlases](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/Atlases)
-* FSL's [HCP1065 standard-space DTI templates](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/Atlases)
+* [XTRACT WM tract atlases](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/Atlases)
+* [HCP1065 standard-space DTI templates](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/Atlases)
 * Contributor to [QuNex](https://qunex.yale.edu/) diffusion pipelines
 * Contributor to [gemmr](https://github.com/murraylab/gemmr)
 
