@@ -53,7 +53,7 @@ Experience
 Skills
 ======
 * Operating systems
-  * GNU/Linux
+  * Linux
   * Mac OS
   * Windows
 * Programming Languages
