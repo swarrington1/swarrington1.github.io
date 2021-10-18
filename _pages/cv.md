@@ -28,6 +28,9 @@ Education
 
 Experience
 ======
+* Research Fellow
+  * [CoNI Lab](https://spmic-uon.github.io/conilab/), University of Nottingham, October 2021 - Current
+
 * Research Assistant
   * [CoNI Lab](https://spmic-uon.github.io/conilab/), University of Nottingham, April-October 2021
 
@@ -83,6 +86,7 @@ Awards
 Other
 ======
 * Ad-hoc Peer Reviewer:
+  * Communications Biology
   * Human Brain Mapping
   * NMR in Biomedicine
   * Scientific Reports
