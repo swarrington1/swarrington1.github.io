@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a Research Assistant at the [CoNI Lab](https://spmic-uon.github.io/conilab/), University of Nottingham, researching the associations between brain connectivity and behaviour. I graduated from my PhD in August 2021, supervised by Stamatios Sotiropoulos and funded by the [MRC IMPACT DTP](https://more.bham.ac.uk/mrc-impact/). During my PhD I developed [FSL's XTRACT](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/XTRACT) for the standardised and automated extraction of major white matter fibre bundles in the human and macaque brain.
+Currently, I am a Research Fellow at the [CoNI Lab](https://spmic-uon.github.io/conilab/), University of Nottingham, with a focus on developing robust methods for estimating structural brain connectivity and relating these measures to measures of behaviour. I graduated from my PhD in August 2021, supervised by Stamatios Sotiropoulos and funded by the [MRC IMPACT DTP](https://more.bham.ac.uk/mrc-impact/). During my PhD I developed [FSL's XTRACT](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/XTRACT) for the standardised and automated extraction of major white matter fibre bundles in the human and macaque brain.
 
 ![FSL's XTRACT](/images/HCP_xtract.gif)
 
-In collaboration with the [Murray](https://medicine.yale.edu/lab/murray/) and [Anticevic](https://medicine.yale.edu/lab/anticevic/) Labs (Yale University), I have recently focused on exploring the stability of multivariate statistical techniques applied to brain-behaviour associations using large cohort datasets, including the Human Connectome Project (HCP) UK Biobank. 
+In collaboration with the [Murray](https://medicine.yale.edu/lab/murray/) and [Anticevic](https://medicine.yale.edu/lab/anticevic/) Labs (Yale University), I have recently focused on exploring the stability of multivariate statistical techniques applied to brain-behaviour associations using large cohort datasets, including the Human Connectome Project (HCP) UK Biobank.
 
 ![brain behaviour](/images/brain-behaviour.png)
 

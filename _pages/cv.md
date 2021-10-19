@@ -11,7 +11,7 @@ redirect_from:
 
 Current Position
 ======
-Research Assistant in the [CoNI Lab](https://spmic-uon.github.io/conilab/), University of Nottingham, researching brain-behaviour associations and developing standardised and automated tractography tools.
+Research Fellow in the [CoNI Lab](https://spmic-uon.github.io/conilab/), University of Nottingham, researching brain-behaviour associations and developing standardised and automated tractography tools.
 
 
 Education
