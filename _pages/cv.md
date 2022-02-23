@@ -87,6 +87,7 @@ Other
 ======
 * Ad-hoc Peer Reviewer:
   * Communications Biology
+  * Biological Psychiatry: Global Open Science
   * Human Brain Mapping
   * NMR in Biomedicine
   * Scientific Reports
