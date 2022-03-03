@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a Research Fellow at the [CoNI Lab](https://spmic-uon.github.io/conilab/), University of Nottingham, funded by the ERC. My primary research interest is in developing robust methods for estimating structural brain connectivity. I graduated from my PhD in August 2021, supervised by Stamatios Sotiropoulos and funded by the [MRC IMPACT DTP](https://more.bham.ac.uk/mrc-impact/). During my PhD I developed [FSL's XTRACT](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/XTRACT) for the standardised and automated extraction of major white matter fibre bundles in the human and macaque brain.
+Currently, I am a Research Fellow at the [CoNI Lab](https://spmic-uon.github.io/conilab/), University of Nottingham, funded by the ERC. My primary research interest is in developing robust methods for estimating structural brain connectivity.
+
+![University of Nottingham and ERC logos](/images/logos.png)
+
+I graduated from my PhD in August 2021, supervised by Stamatios Sotiropoulos and funded by the [MRC IMPACT DTP](https://more.bham.ac.uk/mrc-impact/). During my PhD I developed [FSL's XTRACT](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/XTRACT) for the standardised and automated extraction of major white matter fibre bundles in the human and macaque brain.
 
 ![FSL's XTRACT](/images/HCP_xtract.gif)
 
