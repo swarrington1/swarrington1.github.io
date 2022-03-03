@@ -11,7 +11,7 @@ redirect_from:
 
 Current Position
 ======
-Research Fellow in the [CoNI Lab](https://spmic-uon.github.io/conilab/), University of Nottingham, researching brain-behaviour associations and developing standardised and automated tractography tools.
+Research Fellow in the [CoNI Lab](https://spmic-uon.github.io/conilab/), University of Nottingham, researching brain-behaviour associations and developing standardised and automated tractography tools. Funded by the ERC.
 
 
 Education
@@ -30,6 +30,7 @@ Experience
 ======
 * Research Fellow
   * [CoNI Lab](https://spmic-uon.github.io/conilab/), University of Nottingham, October 2021 - Current
+  * Funder: European Research Council (ERC) - the Neuro-Metrology Programme
 
 * Research Assistant
   * [CoNI Lab](https://spmic-uon.github.io/conilab/), University of Nottingham, April-October 2021
