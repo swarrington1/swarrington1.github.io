@@ -101,6 +101,8 @@ Other
 
 Publications
 ======
+* Warrington, S., Thompson, E., Bastiani, M., Dubois, J., Baxter, L., Slater, R., Jbabdi, S., Mars, R.B., and Sotiropoulos, S.N. (2020) “Concurrent mapping of brain ontogeny and phylogeny within a common connectivity space”, <i>bioRxiv</i>, [doi.org/10.1101/2022.03.03.482776](https://www.biorxiv.org/content/10.1101/2022.03.03.482776v1)
+
 * K.G. Schilling, ..., S. Warrington, et al., “Tractography dissection variability: what happens when 42 groups dissect 14 white matter bundles on the same dataset?”, <i>NeuroImage</i>, vol. 243, 2021. [10.1016/j.neuroimage.2021.118502](https://doi.org/10.1016/j.neuroimage.2021.118502)
 
 * M. Helmer, S. Warrington, A.-R. Mohammadi-Nejad, J. L. Ji, A. Howell, B. Rosand, A. Anticevic,S. N. Sotiropoulos, and J. D. Murray, “On stability of canonical correlation analysis and partial least squares with application to brain-behavior associations”, <i>bioRxiv</i>, 2020. [10.1101/2020.08.25.265546](https://www.biorxiv.org/content/10.1101/2020.08.25.265546v1).
