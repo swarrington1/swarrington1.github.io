@@ -5,7 +5,7 @@ permalink: /publication/2022-03-04-Concurrent mapping of brain ontogeny and phyl
 date: 2022-03-04
 venue: 'bioRxiv'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2022.03.03.482776v1'
-citation: '<b>Warrington, S.</b>, Thompson, E., Bastiani, M., Dubois, J., Baxter, L., Slater, R., Jbabdi, S., Mars, R.B., and Sotiropoulos, S.N. (2020) “Concurrent mapping of brain ontogeny and phylogeny within a common connectivity space”, <i>bioRxiv</i>, doi.org/10.1101/2022.03.03.482776'
+citation: '<b>Warrington, S.</b>, Thompson, E., Bastiani, M., Dubois, J., Baxter, L., Slater, R., Jbabdi, S., Mars, R.B., and Sotiropoulos, S.N. (2022) “Concurrent mapping of brain ontogeny and phylogeny within a common connectivity space”, <i>bioRxiv</i>, doi.org/10.1101/2022.03.03.482776'
 ---
 
 <a href='https://www.biorxiv.org/content/10.1101/2022.03.03.482776v1'>Download paper here</a>
