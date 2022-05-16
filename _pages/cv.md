@@ -74,6 +74,7 @@ Skills
 
 Awards
 ======
+* ISMRM Summa Cum Laude abstract merit (abstract in the top 5% for category)
 * MRC IMPACT DTP Transition Funding. 6 months of funding to transition from PhD student to post-doctoral researcher. Feb 2021
 * First Place Poster Prize for the MRC IMPACT DTP Student Symposium poster competition. October 2019
 * UoN Graduate School Flexible Funding, supporting the visit to Anticevic Lab, starting a collaborative project on exploring the stability of multivariate statistical methods. March-May 2019
@@ -127,7 +128,11 @@ Software Contributions
 
 Conference Presentations
 ======
-* A. Howell, S. Warrington, J.L. Ji, M. Shinn, B. Adkinson, C. Fonteneau, S.N. Sotiropoulos, J.D. Murray, A. Anticevic, "Cortical Projection Topography Across Thalamus Reflects Large-Scale Brain Organization", 2021, Biological Psychiatry 89(9):S181, DOI: 10.1016/j.biopsych.2021.02.460
+* S. Warrington, E. Thompson, J. Dubois, L. Baxter, R. Slater, R. B. Mars, S. Jbabdi, M. Bastiani, S. N. Sotiropoulos, "Tractography protocols for the neonatal brain, standardised against the adult human and macaque", International Society for Magnetic Resonance in Medicine (ISMRM), 2022. Oral Presentation. Summa Cum Laude merit
+
+* J.L. Ji, J. Demšar, C. Fonteneau, S. Warrington, Z. Tamayo, A. Kraljič, A. Matkovič, N. Purg, M. Helmer, S. Sotiropoulos, J. Murray, A. Anticevic, G. Repovš, "A Scalable Platform for Integrated Multi-Modal Neuroimaging Data Processing and Analysis Across Psychiatric Studies", Biological Psychiatry, 2022, DOI: 10.1016/j.biopsych.2022.02.812
+
+* A. Howell, S. Warrington, J.L. Ji, M. Shinn, B. Adkinson, C. Fonteneau, S.N. Sotiropoulos, J.D. Murray, A. Anticevic, "Cortical Projection Topography Across Thalamus Reflects Large-Scale Brain Organization", Biological Psychiatry 89(9):S181, 2021, DOI: 10.1016/j.biopsych.2021.02.460
 
 * S. Warrington, M. Helmer, J.L. Ji, A.-R. Mohammadi-Nejad, A. Anticevic, J.D. Murray, S.N. Sotiropoulos, "Exploring the stability of canonical correlation analysis between imaging and non-imaging datasets", Organization for Human Brain Mapping (OHBM), 2020
 
