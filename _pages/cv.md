@@ -102,6 +102,10 @@ Other
 
 Publications
 ======
+* Ji J.L., Demšar, J., Fonteneau, C., Tamayo, Z., Pan, L., Kraljič, A., Matkovič, A., Purg, N., Helmer, M., Warrington, S., Harms, M., Sotiropoulos, S.N., Murray, J.D., Anticevic, A. and Repovš, G.. (2022) “QuNex — An Integrative Platform for Reproducible Neuroimaging Analytics”, <i>bioRxiv</i>, [doi.org/10.1101/2022.06.03.494750](https://www.biorxiv.org/content/10.1101/2022.06.03.494750v1)
+
+* Tewarie, P., Prasse, B., Meier, J., Mandke, K. Warrington, S., Stam, C.J., Brookes, M.J., Van Mieghem, P. Sotiropoulos, S.N. and Hillebrand, A. (2022) “Predicting time-resolved electrophysiological brain networks from structural eigenmodes”, <i>Human Brain Mapping</i>, [doi.org/10.1002/hbm.25967](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25967)
+
 * Warrington, S., Thompson, E., Bastiani, M., Dubois, J., Baxter, L., Slater, R., Jbabdi, S., Mars, R.B., and Sotiropoulos, S.N. (2022) “Concurrent mapping of brain ontogeny and phylogeny within a common connectivity space”, <i>bioRxiv</i>, [doi.org/10.1101/2022.03.03.482776](https://www.biorxiv.org/content/10.1101/2022.03.03.482776v1)
 
 * K.G. Schilling, ..., S. Warrington, et al., “Tractography dissection variability: what happens when 42 groups dissect 14 white matter bundles on the same dataset?”, <i>NeuroImage</i>, vol. 243, 2021. [10.1016/j.neuroimage.2021.118502](https://doi.org/10.1016/j.neuroimage.2021.118502)
