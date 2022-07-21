@@ -17,7 +17,7 @@ Research Fellow in the [CoNI Lab](https://spmic-uon.github.io/conilab/), Univers
 Education
 ======
 * PhD in Brain Connectivity Mapping, University of Nottingham, 2017-2021
-  * Supervisor: Stamatios Sotiropoulos
+  * Supervisors: Stamatios Sotiropoulos, Theodore Kypraios
   * Funding: MRC IMPACT DTP
   * Thesis title: Brain connectivity mapping with diffusion MRI across individuals and species
   * Graduation: 4th August 2021
@@ -94,6 +94,7 @@ Other
   * NMR in Biomedicine
   * Scientific Reports
   * NeuroImage
+  * Oxford University Press
 * Memberships and Professional Bodies:
   * OHBM, Student Member, 2018-Current
   * HCPC, State Registered Clinical Scientist, 2017-Current
@@ -102,19 +103,19 @@ Other
 
 Publications
 ======
-* Ji J.L., Demšar, J., Fonteneau, C., Tamayo, Z., Pan, L., Kraljič, A., Matkovič, A., Purg, N., Helmer, M., Warrington, S., Harms, M., Sotiropoulos, S.N., Murray, J.D., Anticevic, A. and Repovš, G.. (2022) “QuNex — An Integrative Platform for Reproducible Neuroimaging Analytics”, <i>bioRxiv</i>, [doi.org/10.1101/2022.06.03.494750](https://www.biorxiv.org/content/10.1101/2022.06.03.494750v1)
+* J.L. Ji, J. Demšar, C. Fonteneau, Z. Tamayo, L. Pan, A. Kraljič, A. Matkovič, N. Purg, M. Helmer, S. Warrington, M. Harms, S.N. Sotiropoulos, J.D. Murray, A. Anticevic and G. Repovš, “QuNex — An Integrative Platform for Reproducible Neuroimaging Analytics”, <i>bioRxiv</i>, 2022, [doi.org/10.1101/2022.06.03.494750](https://www.biorxiv.org/content/10.1101/2022.06.03.494750v1)
 
-* Tewarie, P., Prasse, B., Meier, J., Mandke, K. Warrington, S., Stam, C.J., Brookes, M.J., Van Mieghem, P. Sotiropoulos, S.N. and Hillebrand, A. (2022) “Predicting time-resolved electrophysiological brain networks from structural eigenmodes”, <i>Human Brain Mapping</i>, [doi.org/10.1002/hbm.25967](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25967)
+* P. Tewarie, B. Prasse, J. Meier, K. Mandke, S. Warrington, C.J. Stam, M.J. Brookes, P. Van Mieghem, S.N. Sotiropoulos, and A. Hillebrand, “Predicting time-resolved electrophysiological brain networks from structural eigenmodes”, <i>Human Brain Mapping</i>, 2022, [doi.org/10.1002/hbm.25967](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25967)
 
-* Warrington, S., Thompson, E., Bastiani, M., Dubois, J., Baxter, L., Slater, R., Jbabdi, S., Mars, R.B., and Sotiropoulos, S.N. (2022) “Concurrent mapping of brain ontogeny and phylogeny within a common connectivity space”, <i>bioRxiv</i>, [doi.org/10.1101/2022.03.03.482776](https://www.biorxiv.org/content/10.1101/2022.03.03.482776v1)
+* S. Warrington\*, E. Thompson\*, M. Bastiani, J. Dubois, L. Baxter, R. Slater, S. Jbabdi, R.B. Mars, and S.N. Sotiropoulos, “Concurrent mapping of brain ontogeny and phylogeny within a common connectivity space”, <i>bioRxiv</i>, 2022, [doi.org/10.1101/2022.03.03.482776](https://www.biorxiv.org/content/10.1101/2022.03.03.482776v1)
 
 * K.G. Schilling, ..., S. Warrington, et al., “Tractography dissection variability: what happens when 42 groups dissect 14 white matter bundles on the same dataset?”, <i>NeuroImage</i>, vol. 243, 2021. [10.1016/j.neuroimage.2021.118502](https://doi.org/10.1016/j.neuroimage.2021.118502)
 
-* M. Helmer, S. Warrington, A.-R. Mohammadi-Nejad, J. L. Ji, A. Howell, B. Rosand, A. Anticevic,S. N. Sotiropoulos, and J. D. Murray, “On stability of canonical correlation analysis and partial least squares with application to brain-behavior associations”, <i>bioRxiv</i>, 2020. [10.1101/2020.08.25.265546](https://www.biorxiv.org/content/10.1101/2020.08.25.265546v1).
+* M. Helmer, S. Warrington, A.R. Mohammadi-Nejad, J.L. Ji, A. Howell, B. Rosand, A. Anticevic, S.N. Sotiropoulos, and J.D. Murray, “On stability of canonical correlation analysis and partial least squares with application to brain-behavior associations”, <i>bioRxiv</i>, 2020. [10.1101/2020.08.25.265546](https://www.biorxiv.org/content/10.1101/2020.08.25.265546v1).
 
-* S. Warrington, K. L. Bryant, A. A. Khrapitchev, J. Sallet, M. Charquero-Ballester, G. Douaud, S. Jbabdi, R. B. Mars, and S. N. Sotiropoulos, “XTRACT - standardised protocols for automated tractography in the human and macaque brain”, <i>NeuroImage</i>, vol. 217, 2020. [10.1016/j.neuroimage.2020.116923](https://www.sciencedirect.com/science/article/pii/S1053811920304092).
+* S. Warrington, K.L. Bryant, A.A. Khrapitchev, J. Sallet, M. Charquero-Ballester, G. Douaud, S. Jbabdi, R.B. Mars, and S.N. Sotiropoulos, “XTRACT - standardised protocols for automated tractography in the human and macaque brain”, <i>NeuroImage</i>, vol. 217, 2020. [10.1016/j.neuroimage.2020.116923](https://www.sciencedirect.com/science/article/pii/S1053811920304092).
 
-* E. Peake, S. Warrington, N. J. Dudley, P. S. Morgan, and N. M. Gibson, “A Method of Correcting for the Effect of Temperature on Low-Contrast Penetration Measurement in Urethane Phantoms”, <i>Ultrasound in Medicine and Biology</i>, vol. 45, no. 6, 2019. [10.1016/j.ultrasmedbio.2019.02.012](https://www.umbjournal.org/article/S0301-5629(19)30079-1/abstract)
+* E. Peake, S. Warrington, N.J. Dudley, P.S. Morgan, and N.M. Gibson, “A Method of Correcting for the Effect of Temperature on Low-Contrast Penetration Measurement in Urethane Phantoms”, <i>Ultrasound in Medicine and Biology</i>, vol. 45, no. 6, 2019. [10.1016/j.ultrasmedbio.2019.02.012](https://www.umbjournal.org/article/S0301-5629(19)30079-1/abstract)
 
 
 Software Contributions
@@ -155,7 +156,7 @@ Conference Presentations
 
 * A. Howell, S. Warrington, J.L. Ji, B. Adkinson, S.N. Sotiropoulos, J.D. Murray, A. Anticevic, "Defining Targeted Projection Patterns in Thalamus Using Diffusion Weighted Imaging", 2020, Biological Psychiatry 87(9):S380, DOI: 10.1016/j.biopsych.2020.02.973
 
-* S. Warrington, K.L. Bryant, M. Charquero-Ballester, G. Douaud, S. Jbabdi, R. B. Mars, and S.N. Sotiropoulos, "Standardised protocols for automated tractography and connectivity blueprints", MRC IMPACT DTP Student Symposium, 2019 - Awarded 1st Place in the poster competition. Poster.
+* S. Warrington, K.L. Bryant, M. Charquero-Ballester, G. Douaud, S. Jbabdi, R.B. Mars, and S.N. Sotiropoulos, "Standardised protocols for automated tractography and connectivity blueprints", MRC IMPACT DTP Student Symposium, 2019 - Awarded 1st Place in the poster competition. Poster.
 
 * S. Warrington, K.L. Bryant, M. Charquero-Ballester, G. Douaud, S. Jbabdi, R.B. Mars, and S.N. Sotiropoulos, "Standardised protocols for automated tractography and connectivity blueprints", Organization for Human Brain Mapping (OHBM), 2019. Poster.
 
