@@ -5,7 +5,7 @@ permalink: /publication/2022-06-01-Predicting time-resolved electrophysiological
 date: 2022-06-01
 venue: 'Human Brain Mapping'
 paperurl: 'https://onlinelibrary.wiley.com/doi/10.1002/hbm.25967'
-citation: 'Tewarie, P., Prasse, B., Meier, J., Mandke, K. <b>Warrington, S.</b>, Stam, C.J., Brookes, M.J., Van Mieghem, P. Sotiropoulos, S.N. and Hillebrand, A. (2022) “Predicting time-resolved electrophysiological brain networks from structural eigenmodes”, <i>Human Brain Mapping</i>, doi.org/10.1002/hbm.25967'
+citation: 'Tewarie, P., Prasse, B., Meier, J., Mandke, K. <b>Warrington, S.</b>, Stam, C.J., Brookes, M.J., Van Mieghem, P. Sotiropoulos, S.N. and Hillebrand, A. (2022) “Predicting time-resolved electrophysiological brain networks from structural eigenmodes”, <i>Human Brain Mapping</i>, vol. 43 (14), doi.org/10.1002/hbm.25967'
 ---
 
 <a href='https://onlinelibrary.wiley.com/doi/10.1002/hbm.25967'>Download paper here</a>
