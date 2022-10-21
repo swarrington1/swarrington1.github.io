@@ -103,11 +103,12 @@ Other
 
 Publications
 ======
+
+* S. Warrington\*, E. Thompson\*, M. Bastiani, J. Dubois, L. Baxter, R. Slater, S. Jbabdi, R.B. Mars, and S.N. Sotiropoulos, “Concurrent mapping of brain ontogeny and phylogeny within a common space: Standardized tractography and applications”, <i>Science Advances</i>, vol. 8(42) 2022, [10.1126/sciadv.abq2022](https://www.science.org/doi/abs/10.1126/sciadv.abq2022)
+
 * J.L. Ji, J. Demšar, C. Fonteneau, Z. Tamayo, L. Pan, A. Kraljič, A. Matkovič, N. Purg, M. Helmer, S. Warrington, M. Harms, S.N. Sotiropoulos, J.D. Murray, A. Anticevic and G. Repovš, “QuNex — An Integrative Platform for Reproducible Neuroimaging Analytics”, <i>bioRxiv</i>, 2022, [doi.org/10.1101/2022.06.03.494750](https://www.biorxiv.org/content/10.1101/2022.06.03.494750v1)
 
 * P. Tewarie, B. Prasse, J. Meier, K. Mandke, S. Warrington, C.J. Stam, M.J. Brookes, P. Van Mieghem, S.N. Sotiropoulos, and A. Hillebrand, “Predicting time-resolved electrophysiological brain networks from structural eigenmodes”, <i>Human Brain Mapping</i>, 2022, [doi.org/10.1002/hbm.25967](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25967)
-
-* S. Warrington\*, E. Thompson\*, M. Bastiani, J. Dubois, L. Baxter, R. Slater, S. Jbabdi, R.B. Mars, and S.N. Sotiropoulos, “Concurrent mapping of brain ontogeny and phylogeny within a common connectivity space”, <i>bioRxiv</i>, 2022, [doi.org/10.1101/2022.03.03.482776](https://www.biorxiv.org/content/10.1101/2022.03.03.482776v1)
 
 * K.G. Schilling, ..., S. Warrington, et al., “Tractography dissection variability: what happens when 42 groups dissect 14 white matter bundles on the same dataset?”, <i>NeuroImage</i>, vol. 243, 2021. [10.1016/j.neuroimage.2021.118502](https://doi.org/10.1016/j.neuroimage.2021.118502)
 
