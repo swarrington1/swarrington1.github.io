@@ -88,6 +88,7 @@ Awards
 Other
 ======
 * Ad-hoc Peer Reviewer:
+  * Nature Neuroscience
   * Communications Biology
   * Biological Psychiatry: Global Open Science
   * Human Brain Mapping
