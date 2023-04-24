@@ -106,13 +106,13 @@ Other
 Publications
 ======
 
-* S. Warrington\*, E. Thompson\*, M. Bastiani, J. Dubois, L. Baxter, R. Slater, S. Jbabdi, R. B. Mars, and
-S. N. Sotiropoulos, “Concurrent mapping of brain ontogeny and phylogeny within a common space: Standardized tractography and applications”, <i>Science Advances</i>, vol. 8(42) 2022, [10.1126/sciadv.abq2022](https://www.science.org/doi/abs/10.1126/sciadv.abq2022)
-
 * J. L. Ji, J. Demšar, C. Fonteneau, Z. Tamayo, L. Pan, A. Kraljič, A. Matkovič, N. Purg, M. Helmer,
 S. Warrington, A. Winkler, V. Zerbi, T. S. Coalson, M. F. Glasser, M. P. Harms, S. N. Sotiropoulos,
 J. D. Murray, A. Anticevic, and G. Repovš, “QuNex—an integrative platform for reproducible
 neuroimaging analytics”, <i>Frontiers in Neuroinformatics</i>, vol. 17, 2023, [10.3389/fninf.2023.1104508](https://www.frontiersin.org/articles/10.3389/fninf.2023.1104508/full)
+
+* S. Warrington\*, E. Thompson\*, M. Bastiani, J. Dubois, L. Baxter, R. Slater, S. Jbabdi, R. B. Mars, and
+S. N. Sotiropoulos, “Concurrent mapping of brain ontogeny and phylogeny within a common space: Standardized tractography and applications”, <i>Science Advances</i>, vol. 8(42) 2022, [10.1126/sciadv.abq2022](https://www.science.org/doi/abs/10.1126/sciadv.abq2022)
 
 * P. Tewarie, B. Prasse, J. Meier, K. Mandke, S. Warrington, C. J. Stam, M. J. Brookes,
 P. Van Mieghem, S. N. Sotiropoulos, and A. Hillebrand,, “Predicting time-resolved electrophysiological brain networks from structural eigenmodes”, <i>Human Brain Mapping</i>, 2022, [doi.org/10.1002/hbm.25967](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25967)
