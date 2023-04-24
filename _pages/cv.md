@@ -11,7 +11,7 @@ redirect_from:
 
 Current Position
 ======
-Research Fellow in the [CoNI Lab](https://spmic-uon.github.io/conilab/), University of Nottingham, researching brain-behaviour associations and developing standardised and automated tractography tools. Funded by the ERC.
+Research Fellow in the [CoNI Lab](https://spmic-uon.github.io/conilab/), University of Nottingham, researching brain-behaviour associations, developing robust tractography tools, and building harmonisation resources. Funded by the ERC.
 
 
 Education
@@ -19,7 +19,7 @@ Education
 * PhD in Brain Connectivity Mapping, University of Nottingham, 2017-2021
   * Supervisors: Stamatios Sotiropoulos, Theodore Kypraios
   * Funding: MRC IMPACT DTP
-  * Thesis title: Brain connectivity mapping with diffusion MRI across individuals and species
+  * Thesis title: [Brain connectivity mapping with diffusion MRI across individuals and species](https://eprints.nottingham.ac.uk/65487/)
   * Graduation: 4th August 2021
 * MSc Clinical Sciences (Imaging with Non-Ionising Radiation), University of Newcastle, 2014-2017
   * Thesis title: Using advanced Magnetic Resonance Imaging techniques to improve the characterisation of multiple sclerosis
@@ -88,6 +88,7 @@ Awards
 Other
 ======
 * Ad-hoc Peer Reviewer:
+  * Nature Methods
   * Nature Neuroscience
   * Communications Biology
   * Biological Psychiatry: Global Open Science
@@ -105,19 +106,26 @@ Other
 Publications
 ======
 
-* S. Warrington\*, E. Thompson\*, M. Bastiani, J. Dubois, L. Baxter, R. Slater, S. Jbabdi, R.B. Mars, and S.N. Sotiropoulos, “Concurrent mapping of brain ontogeny and phylogeny within a common space: Standardized tractography and applications”, <i>Science Advances</i>, vol. 8(42) 2022, [10.1126/sciadv.abq2022](https://www.science.org/doi/abs/10.1126/sciadv.abq2022)
+* S. Warrington\*, E. Thompson\*, M. Bastiani, J. Dubois, L. Baxter, R. Slater, S. Jbabdi, R. B. Mars, and
+S. N. Sotiropoulos, “Concurrent mapping of brain ontogeny and phylogeny within a common space: Standardized tractography and applications”, <i>Science Advances</i>, vol. 8(42) 2022, [10.1126/sciadv.abq2022](https://www.science.org/doi/abs/10.1126/sciadv.abq2022)
 
-* J.L. Ji, J. Demšar, C. Fonteneau, Z. Tamayo, L. Pan, A. Kraljič, A. Matkovič, N. Purg, M. Helmer, S. Warrington, M. Harms, S.N. Sotiropoulos, J.D. Murray, A. Anticevic and G. Repovš, “QuNex — An Integrative Platform for Reproducible Neuroimaging Analytics”, <i>bioRxiv</i>, 2022, [doi.org/10.1101/2022.06.03.494750](https://www.biorxiv.org/content/10.1101/2022.06.03.494750v1)
+* J. L. Ji, J. Demšar, C. Fonteneau, Z. Tamayo, L. Pan, A. Kraljič, A. Matkovič, N. Purg, M. Helmer,
+S. Warrington, A. Winkler, V. Zerbi, T. S. Coalson, M. F. Glasser, M. P. Harms, S. N. Sotiropoulos,
+J. D. Murray, A. Anticevic, and G. Repovš, “QuNex—an integrative platform for reproducible
+neuroimaging analytics”, <i>Frontiers in Neuroinformatics</i>, vol. 17, 2023, [10.3389/fninf.2023.1104508](https://www.frontiersin.org/articles/10.3389/fninf.2023.1104508/full)
 
-* P. Tewarie, B. Prasse, J. Meier, K. Mandke, S. Warrington, C.J. Stam, M.J. Brookes, P. Van Mieghem, S.N. Sotiropoulos, and A. Hillebrand, “Predicting time-resolved electrophysiological brain networks from structural eigenmodes”, <i>Human Brain Mapping</i>, 2022, [doi.org/10.1002/hbm.25967](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25967)
+* P. Tewarie, B. Prasse, J. Meier, K. Mandke, S. Warrington, C. J. Stam, M. J. Brookes,
+P. Van Mieghem, S. N. Sotiropoulos, and A. Hillebrand,, “Predicting time-resolved electrophysiological brain networks from structural eigenmodes”, <i>Human Brain Mapping</i>, 2022, [doi.org/10.1002/hbm.25967](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25967)
 
-* K.G. Schilling, ..., S. Warrington, et al., “Tractography dissection variability: what happens when 42 groups dissect 14 white matter bundles on the same dataset?”, <i>NeuroImage</i>, vol. 243, 2021. [10.1016/j.neuroimage.2021.118502](https://doi.org/10.1016/j.neuroimage.2021.118502)
+* K. G. Schilling, ..., S. Warrington, et al., “Tractography dissection variability: what happens when 42 groups dissect 14 white matter bundles on the same dataset?”, <i>NeuroImage</i>, vol. 243, 2021. [10.1016/j.neuroimage.2021.118502](https://doi.org/10.1016/j.neuroimage.2021.118502)
 
-* M. Helmer, S. Warrington, A.R. Mohammadi-Nejad, J.L. Ji, A. Howell, B. Rosand, A. Anticevic, S.N. Sotiropoulos, and J.D. Murray, “On stability of canonical correlation analysis and partial least squares with application to brain-behavior associations”, <i>bioRxiv</i>, 2020. [10.1101/2020.08.25.265546](https://www.biorxiv.org/content/10.1101/2020.08.25.265546v1).
+* M. Helmer, S. Warrington, A.-R. Mohammadi-Nejad, J. L. Ji, A. Howell, B. Rosand, A. Anticevic,
+S. N. Sotiropoulos, and J. D. Murray, “On stability of canonical correlation analysis and partial least squares with application to brain-behavior associations”, <i>bioRxiv</i>, 2020. [10.1101/2020.08.25.265546](https://www.biorxiv.org/content/10.1101/2020.08.25.265546v1).
 
-* S. Warrington, K.L. Bryant, A.A. Khrapitchev, J. Sallet, M. Charquero-Ballester, G. Douaud, S. Jbabdi, R.B. Mars, and S.N. Sotiropoulos, “XTRACT - standardised protocols for automated tractography in the human and macaque brain”, <i>NeuroImage</i>, vol. 217, 2020. [10.1016/j.neuroimage.2020.116923](https://www.sciencedirect.com/science/article/pii/S1053811920304092).
+* S. Warrington, K. L. Bryant, A. A. Khrapitchev, J. Sallet, M. Charquero-Ballester, G. Douaud,
+S. Jbabdi, R. B. Mars, and S. N. Sotiropoulos, “XTRACT - standardised protocols for automated tractography in the human and macaque brain”, <i>NeuroImage</i>, vol. 217, 2020. [10.1016/j.neuroimage.2020.116923](https://www.sciencedirect.com/science/article/pii/S1053811920304092).
 
-* E. Peake, S. Warrington, N.J. Dudley, P.S. Morgan, and N.M. Gibson, “A Method of Correcting for the Effect of Temperature on Low-Contrast Penetration Measurement in Urethane Phantoms”, <i>Ultrasound in Medicine and Biology</i>, vol. 45, no. 6, 2019. [10.1016/j.ultrasmedbio.2019.02.012](https://www.umbjournal.org/article/S0301-5629(19)30079-1/abstract)
+* E. Peake, S. Warrington, N. J. Dudley, P. S. Morgan, and N. M. Gibson, “A Method of Correcting for the Effect of Temperature on Low-Contrast Penetration Measurement in Urethane Phantoms”, <i>Ultrasound in Medicine and Biology</i>, vol. 45, no. 6, 2019. [10.1016/j.ultrasmedbio.2019.02.012](https://www.umbjournal.org/article/S0301-5629(19)30079-1/abstract)
 
 
 Software Contributions
@@ -127,6 +135,7 @@ Software Contributions
   * xtract_viewer
   * xtract_stats
   * xtract_blueprint
+  * xtract_qc  
 * [XTRACT WM tract atlases](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/Atlases)
 * [HCP1065 standard-space DTI templates](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/Atlases)
 * Contributor to [QuNex](https://qunex.yale.edu/) diffusion pipelines
