@@ -106,10 +106,9 @@ Other
 Publications
 ======
 
-* J. L. Ji, J. Demšar, C. Fonteneau, Z. Tamayo, L. Pan, A. Kraljič, A. Matkovič, N. Purg, M. Helmer,
-S. Warrington, A. Winkler, V. Zerbi, T. S. Coalson, M. F. Glasser, M. P. Harms, S. N. Sotiropoulos,
-J. D. Murray, A. Anticevic, and G. Repovš, “QuNex—an integrative platform for reproducible
-neuroimaging analytics”, <i>Frontiers in Neuroinformatics</i>, vol. 17, 2023, [10.3389/fninf.2023.1104508](https://www.frontiersin.org/articles/10.3389/fninf.2023.1104508/full)
+* S. Warrington, A. Ntata, O. Mougin, J. Campbell, A. Torchi, M. Craig, F. Alfaro-Almagro, K. L. Miller, P. S. Morgan, M. Jenkinson, and S. N. Sotiropoulos, “A resource for development and comparison of multimodal brain 3T MRI harmonisation approaches”, Imaging Neuroscience, 2023, [10.1162/imag_a_00042](https://doi.org/10.1162/imag_a_00042)
+
+* J. L. Ji, J. Demšar, C. Fonteneau, Z. Tamayo, L. Pan, A. Kraljič, A. Matkovič, N. Purg, M. Helmer, S. Warrington, A. Winkler, V. Zerbi, T. S. Coalson, M. F. Glasser, M. P. Harms, S. N. Sotiropoulos, J. D. Murray, A. Anticevic, and G. Repovš, “QuNex—an integrative platform for reproducible neuroimaging analytics”, <i>Frontiers in Neuroinformatics</i>, vol. 17, 2023, [10.3389/fninf.2023.1104508](https://www.frontiersin.org/articles/10.3389/fninf.2023.1104508/full)
 
 * S. Warrington\*, E. Thompson\*, M. Bastiani, J. Dubois, L. Baxter, R. Slater, S. Jbabdi, R. B. Mars, and
 S. N. Sotiropoulos, “Concurrent mapping of brain ontogeny and phylogeny within a common space: Standardized tractography and applications”, <i>Science Advances</i>, vol. 8(42) 2022, [10.1126/sciadv.abq2022](https://www.science.org/doi/abs/10.1126/sciadv.abq2022)
