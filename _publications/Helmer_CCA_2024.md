@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Helmer_CCA_2024
 date: 2024-02-21
 venue: 'Communications Biology'
-paperurl: 'https://www.biorxiv.org/content/10.1101/2020.08.25.265546v1'
+paperurl: 'https://doi.org/10.1038/s42003-024-05869-4'
 citation: 'Helmer, M., <b>Warrington, S.</b>, Mohammadi-Nejad, A.-R., Ji, J.L., Howell, A., Rosand, B., Anticevic, A., Sotiropoulos, S.N., and Murray, J.D. (2020). On the stability of canonical correlation analysis and partial least squares with application to brain-behavior associations, <i>Communications Biology</i>, vol. 7, num. 217.'
 ---
 
