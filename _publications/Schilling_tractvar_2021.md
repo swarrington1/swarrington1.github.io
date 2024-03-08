@@ -1,7 +1,7 @@
 ---
 title: "Tractography dissection variability: what happens when 42 groups dissect 14 white matter bundles on the same dataset?"
 collection: publications
-permalink: /publication/2021-08-22-Tractography dissection variability what happens when 42 groups dissect 14 white matter bundles on the same dataset
+permalink: /publication/Schilling_tractvar_2021
 date: 2021-08-22
 venue: 'NeuroImage'
 paperurl: 'https://doi.org/10.1016/j.neuroimage.2021.118502'

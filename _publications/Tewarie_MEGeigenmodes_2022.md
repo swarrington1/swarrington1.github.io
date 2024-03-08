@@ -1,7 +1,7 @@
 ---
 title: "Predicting time-resolved electrophysiological brain networks from structural eigenmodes"
 collection: publications
-permalink: /publication/2022-06-01-Predicting time-resolved electrophysiological brain networks from structural eigenmodes
+permalink: /publication/Tewarie_MEGeigenmodes_2022
 date: 2022-06-01
 venue: 'Human Brain Mapping'
 paperurl: 'https://onlinelibrary.wiley.com/doi/10.1002/hbm.25967'

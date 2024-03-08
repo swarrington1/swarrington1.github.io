@@ -1,7 +1,7 @@
 ---
 title: "A resource for development and comparison of multimodal brain 3T MRI harmonisation approaches"
 collection: publications
-permalink: /publication/2023-11-20-A resource for development and comparison of multimodal brain 3T MRI harmonisation approaches
+permalink: /publication/Warrington_harmonisation_2023
 date: 2023-11-20
 venue: 'Imaging Neuroscience'
 paperurl: 'https://doi.org/10.1162/imag_a_00042'
@@ -10,3 +10,6 @@ citation: '<b>Warrington, S.</b>, Ntata, A., Mougin, O., Campbell, J., Torchi, A
 
 <a href='https://doi.org/10.1162/imag_a_00042'>Download paper here</a>
 
+Abstract:
+
+Despite the huge potential of magnetic resonance imaging (MRI) in mapping and exploring the brain, MRI measures can often be limited in their consistency, reproducibility, and accuracy which subsequently restricts their quantifiability. Nuisance nonbiological factors, such as hardware, software, calibration differences between scanners, and post-processing options, can contribute to, or drive trends in, neuroimaging features to an extent that interferes with biological variability. Such lack of consistency, known as lack of harmonisation, across neuroimaging datasets poses a great challenge for our capabilities in quantitative MRI. Here, we build a new resource for comprehensively mapping the extent of the problem and objectively evaluating neuroimaging harmonisation approaches. We use a travelling-heads paradigm consisting of multimodal MRI data of 10 travelling subjects, each scanned at five different sites on six different 3 T scanners from all the three major vendors and using five neuroimaging modalities, providing more comprehensive coverage than before. We also acquire multiple within-scanner repeats for a subset of subjects, setting baselines for multimodal scan-rescan variability. Having extracted hundreds of imaging-derived phenotypes, we compare three forms of variability: (i) between-scanner, (ii) within-scanner (within-subject), and (iii) biological (between-subject). We characterise the reliability of features across scanners and use our resource as a testbed to enable new investigations that until now have been relatively unexplored. Specifically, we identify optimal pipeline processing steps that minimise between-scanner variability in extracted features (implicit harmonisation). We also test the performance of post-processing harmonisation tools (explicit harmonisation) and specifically check their efficiency in reducing between-scanner variability against baseline standards provided by our data. Our explorations allow us to come up with good practice suggestions on processing steps and sets of features where results are more consistent, while our publicly released dataset (which we refer to as ON-Harmony) establishes references for future studies in this field.

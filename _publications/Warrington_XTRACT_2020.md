@@ -1,7 +1,7 @@
 ---
 title: "XTRACT - standardised protocols for automated tractography in the human and macaque brain"
 collection: publications
-permalink: /publication/2020-08-15-XTRACT - standardised protocols for automated tractography in the human and macaque brain
+permalink: /publication/Warrington_XTRACT_2020
 date: 2020-08-15
 venue: 'NeuroImage'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1053811920304092'

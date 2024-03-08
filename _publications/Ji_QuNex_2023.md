@@ -1,7 +1,7 @@
 ---
 title: "QuNex — An Integrative Platform for Reproducible Neuroimaging Analytics"
 collection: publications
-permalink: /publication/2023-04-05-QuNex — An Integrative Platform for Reproducible Neuroimaging Analytics
+permalink: /publication/Ji_QuNex_2023
 date: 2023-04-05
 venue: 'Frontiers in Neuroinformatics'
 paperurl: 'https://www.frontiersin.org/articles/10.3389/fninf.2023.1104508'

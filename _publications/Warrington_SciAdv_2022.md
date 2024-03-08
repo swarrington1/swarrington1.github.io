@@ -1,7 +1,7 @@
 ---
 title: "Concurrent mapping of brain ontogeny and phylogeny within a common space: Standardized tractography and applications"
 collection: publications
-permalink: /publication/2022-10-19-Concurrent mapping of brain ontogeny and phylogeny within a common space
+permalink: /publication/Warrington_SciAdv_2022
 date: 2022-10-19
 venue: 'Science Advances'
 paperurl: 'https://www.science.org/doi/10.1126/sciadv.abq2022'
