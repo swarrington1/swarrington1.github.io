@@ -4,11 +4,11 @@ collection: publications
 permalink: /publication/Howell_thal_2024
 date: 2024-02-29
 venue: 'eLife'
-paperurl: 'https://doi.org/10.1038/s42003-024-05869-4'
+paperurl: 'https://doi.org/10.7554/eLife.95018.1'
 citation: 'Howell, A.M., <b>Warrington, S.</b>, Fonteneau, C., Youngsun, T., Sotiropoulos, S.N., and Murray, J.D., Anticevic, A. (2024). The spatial extent of anatomical connections within the thalamus varies across the cortical hierarchy in humans and macaques, <i>eLife</i>, 13:RP95018'
 ---
 
-<a href='https://doi.org/10.1038/s42003-024-05869-4'>Download paper here</a>
+<a href='https://doi.org/10.7554/eLife.95018.1'>Download paper here</a>
 
 Abstract: 
 
