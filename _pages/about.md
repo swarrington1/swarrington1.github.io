@@ -27,7 +27,7 @@ Prior to my PhD, I completed the [Scientist Training Programme (STP)](https://ns
 
 <div class="box">
   <img src="/images/brilliantclub.jpeg" alt="Brilliant Club Handbook" style="float: left;
-  margin: 5px;" width="400"/>
+  margin: 20px;" width="300"/>
 </div>
 
 <div>
