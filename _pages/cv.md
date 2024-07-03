@@ -24,8 +24,18 @@ Current Position
  </p>
 </div> -->
 
-Research Fellow in the [CoNI Lab](https://spmic-uon.github.io/conilab/), University of Nottingham, researching brain-behaviour associations, developing robust tractography tools, and building harmonisation resources. Funded by the ERC.
 
+<div class="container">
+  <div class="text-box">
+    <p>Research Fellow in the CoNI Lab (https://spmic-uon.github.io/conilab/), University of Nottingham, researching brain-behaviour associations, developing robust tractography tools, and building harmonisation resources. Funded by the ERC.</p>
+  </div>
+  <div class="box">
+    <video width="320" autoplay>
+      <source src="/images/tdi.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+</div>
 
 Education
 ======
