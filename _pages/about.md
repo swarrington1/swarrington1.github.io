@@ -26,4 +26,8 @@ Prior to my PhD, I completed the [Scientist Training Programme (STP)](https://ns
 
 I have spent several years as a [STEM Ambassador](https://www.stem.org.uk/stem-ambassadors) and was previously a tutor on the [Scholars Programme](https://thebrilliantclub.org/the-scholars-programme/) with the Brilliant Club.
 
-![Brilliant Club Handbook](/images/brilliantclub.jpeg)
+
+<img src=/images/brilliantclub.jpeg style="position:relative; left:20px;">
+
+
+<!-- ![Brilliant Club Handbook](/images/brilliantclub.jpeg) -->
