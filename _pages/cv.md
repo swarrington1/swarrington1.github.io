@@ -12,30 +12,15 @@ redirect_from:
 Current Position
 ======
 
-<!-- <div class="box">
-  <video width="320" autoplay>
-    <source src="/images/tdi.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-  </video>
+<div class="box">
+  <img src="/images/tdi.gif" alt="Tract density imaging (gif)" style="float: right;
+  margin: 20px;" width="300"/>
 </div>
 
 <div>
-  <p> Research Fellow in the CoNI Lab (https://spmic-uon.github.io/conilab/), University of Nottingham, researching brain-behaviour associations, developing robust tractography tools, and building harmonisation resources. Funded by the ERC.
- </p>
-</div> -->
-
-
-<div class="container">
-  <div class="text-box">
-    <p>Research Fellow in the CoNI Lab (https://spmic-uon.github.io/conilab/), University of Nottingham, researching brain-behaviour associations, developing robust tractography tools, and building harmonisation resources. Funded by the ERC.</p>
-  </div>
-  <div class="box">
-    <video width="320" autoplay>
-      <source src="/images/tdi.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
+  <p>Research Fellow in the CoNI Lab (https://spmic-uon.github.io/conilab/), University of Nottingham, researching brain-behaviour associations, developing robust tractography tools, and building harmonisation resources. Funded by the ERC.</p>
 </div>
+
 
 Education
 ======
