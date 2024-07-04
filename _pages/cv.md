@@ -14,7 +14,7 @@ Current Position
 
 <div class="box">
   <img src="/images/tdi.gif" alt="Tract density imaging (gif)" style="float: right;
-  margin: 20px;" width="300"/>
+  margin: 20px;" width="500"/>
 </div>
 
 <div>
