@@ -157,6 +157,27 @@ Software Contributions
 * Contributor to [gemmr](https://github.com/murraylab/gemmr)
 
 
+Invited Talks
+======
+* S. Warrington, “Pushing the boundaries for brain connectivity mapping”, College of Medicine, Korea University, June 2024.
+
+* S. Warrington, “Diffusion Tractography”, FSL course, Osaka, Japan, June 2024.
+
+* S. Warrington, “Mapping brain (dis)similarities with diffusion MRI; the ON-Harmony MRI harmonisation resource; the Center for mesoscale connectomics”, Laboratory for Brain Connectomics Imaging, RIKEN Centre for Biosystems Dynamics Research, June 2024.
+
+* S. Warrington, “My academic career so far”, MRC AIM/IMPACT Student Symposium, January 2024.
+
+* S. Warrington, “Mapping brain (dis)similarities using diffusion MRI connectivity fingerprints”, Neuroscience @ Nottingham, January 2024.
+
+* S. Warrington, “Concurrent mapping of brain ontogeny and phylogeny within a common space”, Comparative Brain Meeting, September 2023.
+
+* S. Warrington, “XTRACT-ing connectivity blueprints to compare brains across individuals, development and species”, Centre for Medical Image Computing (CMIC), University College London (UCL), April 2023.
+
+* S. Warrington, “XTRACT and Common Connectivity Spaces”, ISMRM British and Nordic Chapter Teaching Series, October 2021
+
+* S. Warrington, S. Jbabdi, “XTRACT-ing Connectivity Blueprints”, WIN Wednesday Methods Series, University of Oxford, September 2021.
+
+
 Conference Presentations
 ======
 
