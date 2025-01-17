@@ -18,7 +18,7 @@ Current Position
 </div>
 
 <div>
-  <p>Research Fellow in the CoNI Lab (https://spmic-uon.github.io/conilab/), University of Nottingham, researching brain-behaviour associations, developing robust tractography tools, and building harmonisation resources. Funded by the ERC.</p>
+  <p>Senior Research Fellow in the CoNI Lab (https://spmic-uon.github.io/conilab/), University of Nottingham, researching brain-behaviour associations, developing robust tractography tools, and building harmonisation resources. Funded by the ERC.</p>
 </div>
 
 
@@ -36,8 +36,12 @@ Education
 
 Experience
 ======
+* Senior Research Fellow
+  * [CoNI Lab](https://spmic-uon.github.io/conilab/), University of Nottingham, January 2025 - Current
+  * Funder: European Research Council (ERC) - the Neuro-Metrology Programme
+
 * Research Fellow
-  * [CoNI Lab](https://spmic-uon.github.io/conilab/), University of Nottingham, October 2021 - Current
+  * [CoNI Lab](https://spmic-uon.github.io/conilab/), University of Nottingham, October 2021 - December 2024
   * Funder: European Research Council (ERC) - the Neuro-Metrology Programme
 
 * Research Assistant
@@ -108,8 +112,9 @@ Other
   * American Journal of Epidemiology
   * Brain Topography
 * Memberships and Professional Bodies:
-  * OHBM, Student Member, 2018-Current
-  * HCPC, State Registered Clinical Scientist, 2017-Current
+  * OHBM, Student Member, 2018-Current (with gaps)
+  * ISMRM, Trainee Member, 2018-Current (with gaps)
+  * HCPC, State Registered Clinical Scientist, 2017-2021
   * IPEM, Associate Member, 2014-Current
 * Teaching and supervision:
   * PhD supervision: Francesco D'Antonio
@@ -118,6 +123,10 @@ Other
 
 Publications
 ======
+
+S. Warrington, A. Torchi, O. Mougin, M. Craig, A. Ntata, F. Alfaro-Almagro, K. Miller, M. Jenkinson, P. S. Morgan, and S. N. Sotiropoulos, “ON-Harmony: A multi-site, multi-modal travelling-heads resource for brain MRI harmonisation”, under-review.
+
+V. Pelekanos, S. Warrington, E. Premereur, J. de Boer, A. S. Mitchell, and the Alzheimer’s Disease Neuroimaging Initiative (ADNI), “Connectivity in the human and the monkey brain reveals causal contributions of the fornix to Alzheimer’s disease and mild cognitive impairment”, bioRxiv, 2024. [10.1101/2024.12.02.625865](https://www.biorxiv.org/content/10.1101/2024.12.02.625865v1.abstract)
 
 K. L. Bryant, J. Camilleri, S. Warrington, G. B. Freches, S. N. Sotiropoulos, S. Jbabdi, S. Eickhoff, and R. B. Mars, “Connectivity profile and function of uniquely human cortical areas”, bioRxiv, 2024. [10.1101/2024.06.20.599486](https://www.biorxiv.org/content/10.1101/2024.06.20.599486v1.abstract)
 
@@ -159,6 +168,8 @@ Software Contributions
 
 Invited Talks
 ======
+* S. Warrington, “The Oxford-Nottingham Harmonisation resource (ON-Harmony)”, Half-Day WIN Event on Data Harmonisation, Oxford University, October 2024.
+
 * S. Warrington, “Pushing the boundaries for brain connectivity mapping”, College of Medicine, Korea University, June 2024.
 
 * S. Warrington, “Diffusion Tractography”, FSL course, Osaka, Japan, June 2024.
@@ -180,6 +191,19 @@ Invited Talks
 
 Conference Presentations
 ======
+
+* S. Warrington, B.C. Tendler, H. Farooq, S. Moeller, P. Pisharady, W. Wu, E.J. Auerbach, S. Heilbronner, E.  Yacoub, K. Ugurbil, C. Lenglet, K. Miller, S. Jbabdi, J. Zimmermann, S.N. Sotiropoulos, “High Resolution Diffusion MRI Tractography at 10.5T in the in-vivo & ex-vivo NHP brain”, BIC-ISMRM, September 2024. Oral presentation.
+
+* B.C. Tendler, W. Wu, S. Warrington, E.J. Auerbach, H. Farooq, S. Moeller, P. Pisharady, C. Lenglet, S. Heilbronner, E. Yacoub, K. Ugurbil, S. Jbabdi, S.N. Sotiropoulos, K. Miller, J. Zimmermann, “Diffusion MRI methods for post-mortem imaging at 10.5 T”, BIC-ISMRM, September 2024. Oral presentation.
+
+* S. Assimopoulos, S. Warrington, D. Folloni, K.L. Bryant, S. Jbabdi, R.B. Mars, S.N. Sotiropoulos, “Cross species Standardised Subcortical Tractography”, BIC-ISMRM, September 2024. Oral presentation.
+
+* F.D. D’Antonio, S. Warrington, P.S. Morgan, S.N. Sotiropoulos, “End-to-end Complex Reconstruction and Denoising Pipeline for GE Diffusion MRI Acquisitions”, BIC-ISMRM, September 2024. Poster presentation.
+
+* F.D. D’Antonio, S. Warrington, J.P. Manzano, J. Shin, T. Sprenger, P.S. Morgan, S.N. Sotiropoulos, “Comparing Deep Learning and Patch-based Denoising of Diffusion MRI”, BIC-ISMRM, September 2024. Poster presentation.
+
+* A. Torchi\*, S. Warrington\*, O. Mougin, J. Campbell, M. Craig, A. Ntata, F. Alfaro-Almagro, K. Miller, M.
+Jenkinson, P.S. Morgan, S.N. Sotiropoulos, “ON-HARMONY 2.0: A comprehensive travelling-heads resource for multi-modal neuroimaging harmonisation”, BIC-ISMRM, September 2024. Poster presentation. Joint-first author
 
 * S. Warrington, “Using structural connections to build common spaces”, OHBM Educational Course, June 2024. Educational session: part of "An introduction to cross-species comparative neuroimaging", organised by Austin Benn, Katherine Bryant, Katja Heuer and Ting Xu.
 
